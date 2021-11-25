@@ -1,4 +1,4 @@
-<h1 align="center">CyberGhost Weapon v1.0</h1>
+<h1 align="center">Aruack Weapon v1.0</h1>
 <p align="center">An Ultimate CyberGhost's  SMS/call bomber For Linux and Termux</p><br>
 
 ## Note:
@@ -113,6 +113,6 @@ Feel Free To Open An Issue...
        YouTube Channel: https://www.youtube.com/c/CyberGhost
 ```
 
-<a href="https://www.youtube.com/channel/UCM8l2r-7JyN6MdQQweDPGcA?view_as=subscriber">Check Out My YouTube Channel</a>
+
 
 
