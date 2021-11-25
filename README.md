@@ -105,13 +105,10 @@ sudo bash aruack.sh
 
 Feel Free To Open An Issue...
 
-```              Mail: infogit@aruack.com
+```Mail: infogit@aruack.com```
 
-```
+```TELEGRAM: https://t.me/Aruack```
 
-```
-     TELEGRAM: https://t.me/Aruack
-```
 
 
 
