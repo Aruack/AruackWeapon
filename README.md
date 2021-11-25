@@ -53,24 +53,19 @@ pkg install git
 ```
 ```
 pkg install python
-
 ```
 
 ```
 git clone https://github.com/Aruack/AruackWeapon.git
-
 ```
 ```
 cd AruackWeapon
-
 ```
 ```
 chmod +x aruack.sh
-
 ```
 ```
 ./aruack.sh
-
 ```
 
 ### > For Linux:
