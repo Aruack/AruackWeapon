@@ -50,11 +50,27 @@ Commands below provide instructions for Debian-based systems.
 To use the bomber type the following commands in Termux:
 ```
 pkg install git
+```
+```
 pkg install python
-git clone https://github.com/MAruack/AruackWeapon.git
+
+```
+
+```
+git clone https://github.com/Aruack/AruackWeapon.git
+
+```
+```
 cd AruackWeapon
+
+```
+```
 chmod +x aruack.sh
+
+```
+```
 ./aruack.sh
+
 ```
 
 ### > For Linux:
