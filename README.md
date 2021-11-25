@@ -1,16 +1,16 @@
 <h1 align="center">Aruack Weapon v1.0</h1>
-<p align="center">An Ultimate CyberGhost's  SMS/call bomber For Linux and Termux</p><br>
+<p align="center">An Ultimate Aruack's  SMS/call bomber For Linux and Termux</p><br>
 
 ## Note:
 
-**Due misusing of CyberGhostWeapon, several API's died.**  
+**Due misusing of AruackWeapon, several API's died.**  
 **Don't be afraid if you don't see all send messages.**
 
 - The script requires working network connection to work.
 - No balance will be deducted for using this script to send SMS/calls.
 - While doing infinite bombing use 2-3 seconds delay and 10 to 20 threads for maximum performance.
 - Don't put spaces in between phone number (Ex- 99999 99999)
-- Make sure you are using the latest version of CyberGhostWeapon
+- Make sure you are using the latest version of AruackWeapon
 - Make sure you are using Python3.
 
 Here's how you can check it. Type this command in your terminal.
@@ -21,7 +21,7 @@ If output looks like `Python 3` - Congrats, Python 3 is installed properly.
 
 - Do not use this to harm others.
 - This script is only for educational purposes or to prank.
-- **None of the developers/contributors are responsible for the misuse of CyberGhostWeapon.**
+- **None of the developers/contributors are responsible for the misuse of AruackWeapon.**
 <br>
 
 ## Features:
@@ -36,7 +36,7 @@ If output looks like `Python 3` - Congrats, Python 3 is installed properly.
 
 ## Usage:
 
-Run these commands to run CyberGhostWeapon
+Run these commands to run AruackWeapon
 
 ### > For Termux:
 
@@ -51,10 +51,10 @@ To use the bomber type the following commands in Termux:
 ```
 pkg install git
 pkg install python
-git clone https://github.com/MrHarshArora/CyberGhostWeapon.git
-cd CyberGhostWeapon
-chmod +x CyberGhostWeapon.sh
-./CyberGhostWeapon.sh
+git clone https://github.com/MAruack/AruackWeapon.git
+cd AruackWeapon
+chmod +x aruack.sh
+./aruack.sh
 ```
 
 ### > For Linux:
@@ -69,10 +69,10 @@ Commands below provide instructions for Debian-based systems.
 To use the bomber type the following commands in Linux terminal:
 ```
 sudo apt install git
-git clone https://github.com/MrHarshArora/CyberGhostWeapon.git
-cd CyberGhostWeapon
-chmod +x CyberGhostWeapon.sh
-sudo bash CyberGhostWeapon.sh
+git clone https://github.com/Aruack/AruackWeapon.git
+cd AruackWeapon
+chmod +x aruack.sh
+sudo bash aruack.sh
 ```
 
 ### > For macOS:
@@ -89,30 +89,26 @@ brew install git
 brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
-git clone https://github.com/MrHarshArora/CyberGhostWeapon.git
-cd CyberGhostWeapon
-chmod +x CyberGhostWeapon.sh
+git clone https://github.com/Aruack/AruackWeapon.git
+cd AruackWeapon
+chmod +x aruack.sh
 
 # Missing Tools on MacOS
 
-Toilet cannot be installed yet. But CyberGhostWeapon does still work.
+Toilet cannot be installed yet. But AruackWeapon does still work.
 
-# Run CyberGhostWeapon:
+# Run AruackWeapon:
 
-sudo bash CyberGhostWeapon.sh
+sudo bash aruack.sh
 ```
 
-## Demontrative Video:
-
-- Watch Indian Bombing Method <a href="https://www.youtube.com/watch?v=3OGGi0AtCB8&t=12s&ab_channel=CyberGhost">here</a><br>
 
 Feel Free To Open An Issue...
 
 ```
-                 Mail: cyb3r.gh02t.ha@gmail.com<br>
-       YouTube Channel: https://www.youtube.com/c/CyberGhost
+                 Mail: infogit@aruack.com<br>
+       TELEGRAM: https://t.me/Aruack
 ```
-
 
 
 
